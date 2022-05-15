@@ -19,7 +19,7 @@
     padding: 0px;
 }
 header {
-    background-color: var(--cor-05);
+    background-image: linear-gradient(to right, var(--cor-05), var(--cor-04), var(--cor-03), var(--cor-02));
     margin: 0px;
     padding: 30px;
     text-align: center;
